@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Next.js<br>👯 I’m looking to collaborate in open source<br>👨‍💻 All of my projects are available at https://krishportfolio2023.netlify.app/<br>📫 How to reach me krish2212008@akgec.ac.in<br>👨‍💻 linkedin: https://www.linkedin.com/in/krish-kumar-145465273/<br>
+🌱 I’m currently Exploring Devops<br>👯 Open Source Contributor @Layer5 <br>📫 How to reach me krish2212008@akgec.ac.in<br>👨‍💻 linkedin: https://www.linkedin.com/in/krish-kumar-145465273/<br>
 
 
 ## 🌐 Socials:
